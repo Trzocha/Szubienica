@@ -1,0 +1,2 @@
+# Szubienica
+In JS
