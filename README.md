@@ -1,3 +1,0 @@
-# Szubienica
-In JS
-dadaa
